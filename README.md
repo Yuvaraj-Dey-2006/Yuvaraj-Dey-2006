@@ -51,7 +51,7 @@ I combine the rigor of daily DSA practice (190+ problem roadmap on LeetCode, Pyt
 ### Featured Projects
 
 **[Customer Churn Prediction](https://github.com/Yuvaraj-Dey-2006/Customer-Churn-Prediction)**
-Telco churn classifier — replaced SMOTE with native class weighting, Optuna-tuned on F1 (not just ROC-AUC), fixed a data leakage bug in threshold tuning, added engineered features.
+Telco churn classifier — native class weighting, Optuna-tuned on F1 (not just ROC-AUC), no data leakage, with feature engineering.
 
 **USA Housing Price Regression**
 End-to-end regression pipeline with a clean, recruiter-friendly results writeup.
@@ -67,8 +67,4 @@ End-to-end regression pipeline with a clean, recruiter-friendly results writeup.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yuvaraj-Dey-2006/Yuvaraj-Dey-2006/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yuvaraj-Dey-2006&style=flat&color=2EA0F5" alt="profile views" />
 </p>
