@@ -6,11 +6,11 @@
 
 ---
 
-Aspiring ML/AI Engineer currently pursuing a BTech in CSE, specializing in AI & Machine Learning. My work spans the full ML lifecycle — from exploratory data analysis and feature engineering to model tuning with Optuna and building pipelines that avoid the mistakes that quietly ruin evaluation metrics (data leakage, target leakage in threshold tuning, naive resampling).
+Aspiring AI/ML Engineer currently pursuing a BTech in CSE, specializing in AI & Machine Learning. My work spans the full ML lifecycle — from exploratory data analysis and feature engineering to model tuning with Optuna and building pipelines that avoid the mistakes that quietly ruin evaluation metrics (data leakage, target leakage in threshold tuning, naive resampling).
 
 I combine the rigor of daily DSA practice (190+ problem roadmap on LeetCode, Python) with hands-on ML projects — from fixing SMOTE-induced bias with proper class weighting to debugging real production-style pipelines end to end. Currently deepening my SQL/DBMS foundations with PostgreSQL alongside classical ML and deep learning.
 
-**Open to:** ML/AI Engineer Internships · Software Engineering Internships
+**Open to:** ML Engineer Internships · Data Analytics Internships
 
 ---
 
