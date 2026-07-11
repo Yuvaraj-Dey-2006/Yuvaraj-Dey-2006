@@ -66,5 +66,5 @@ End-to-end regression pipeline with a clean, recruiter-friendly results writeup.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yuvaraj-Dey-2006/Yuvaraj-Dey-2006/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Yuvaraj-Dey-2006/Yuvaraj-Dey-2006/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
