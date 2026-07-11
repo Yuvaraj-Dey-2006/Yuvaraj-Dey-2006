@@ -61,8 +61,8 @@ End-to-end regression pipeline with a clean, recruiter-friendly results writeup.
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yuvaraj-Dey-2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj-Dey-2006&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-three-iota-93.vercel.app/api?username=Yuvaraj-Dey-2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-three-iota-93.vercel.app/api/top-langs/?username=Yuvaraj-Dey-2006&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
