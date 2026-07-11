@@ -133,16 +133,6 @@ End-to-end regression pipeline for housing price prediction, documented with a c
 
 ---
 
-### GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yuvaraj-Dey-2006&theme=dracula&no-frame=true&row=2&column=4" />
-
-</div>
-
----
-
 ### Contribution Activity
 
 <div align="center">
