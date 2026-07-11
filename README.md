@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuvaraj Dey</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA0F5&center=true&vCenter=true&width=650&lines=Aspiring+ML+Engineer;Kolkata%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA0F5&center=true&vCenter=true&width=650&lines=Aspiring+ML+Engineer;Howrah%2C+India" alt="Typing SVG" />
 </p>
 
 ---
@@ -62,7 +62,7 @@ End-to-end regression pipeline with a clean, recruiter-friendly results writeup.
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-three-iota-93.vercel.app/api?username=Yuvaraj-Dey-2006&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-three-iota-93.vercel.app/api/top-langs/?username=Yuvaraj-Dey-2006&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-three-iota-93.vercel.app/api/top-langs/?username=Yuvaraj-Dey-2006&layout=compact&theme=github_dark&hide_border=true&disable_animations=true" />
 </p>
 
 <p align="center">
