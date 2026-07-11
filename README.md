@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuvaraj Dey</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA0F5&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Kolkata%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA0F5&center=true&vCenter=true&width=650&lines=Aspiring+ML+Engineer;Kolkata%2C+India" alt="Typing SVG" />
 </p>
 
 ---
