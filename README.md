@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/🎓-BTech%20CSE%20(AI%2FML)-4C1D95?style=flat-square" />
-<img src="https://img.shields.io/badge/📍-Kolkata,%20India-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/📍-howrah,%20India-6D28D9?style=flat-square" />
 <img src="https://img.shields.io/github/followers/Yuvaraj-Dey-2006?style=flat-square&color=8B5CF6&logo=github&label=Followers" />
 
 <br/><br/>
@@ -15,7 +15,6 @@
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/yuvaraj-dey-851044330/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:yuvarajdey1234@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Yuvaraj-Dey-2006"><img src="https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -127,7 +126,7 @@ End-to-end regression pipeline for housing price prediction, documented with a c
 <img height="165" src="https://github-readme-stats-three-iota-93.vercel.app/api?username=Yuvaraj-Dey-2006&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=8B5CF6" />
 <img height="165" src="https://github-readme-stats-three-iota-93.vercel.app/api/top-langs/?username=Yuvaraj-Dey-2006&layout=compact&hide_border=true&disable_animations=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
 
-<img src="https://streak-stats.demolab.com?user=Yuvaraj-Dey-2006&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" />
+<img src="https://streak-stats.demolab.com?user=Yuvaraj-Dey-2006&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&currStreakNum=FF6B00&sideNums=FFFFFF&text=FFFFFF&sideLabels=8B949E&dates=8B949E" />
 
 </div>
 
@@ -162,19 +161,6 @@ Currently:
   Exploring: [MLOps, Agentic AI workflows]
   OpenTo: [ML Engineer Internships, Software Engineering Internships]
 ```
-
----
-
-### Connect
-
-<div align="center">
-
-<a href="https://github.com/Yuvaraj-Dey-2006"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
 
 ---
 
