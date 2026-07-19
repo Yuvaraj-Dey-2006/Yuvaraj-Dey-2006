@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:8B5CF6&height=200&section=header&text=Yuvaraj%20Dey&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20ML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=BTech+CSE+(AI+%26+ML)+%7C+Class+of+2028;Building+leak-free%2C+production-style+ML+pipelines;Howrah%2C+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=BTech+CSE+(AI+%26+ML)+%7C+Class+of+2028+%7C+JIS+University;Building+leak-free%2C+production-style+ML+pipelines;Howrah%2C+India" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/🎓-BTech%20CSE%20(AI%2FML)-4C1D95?style=flat-square" />
-<img src="https://img.shields.io/badge/📍-howrah,%20India-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/📍-Howrah,%20India-6D28D9?style=flat-square" />
 <img src="https://img.shields.io/github/followers/Yuvaraj-Dey-2006?style=flat-square&color=8B5CF6&logo=github&label=Followers" />
 
 <br/><br/>
@@ -75,40 +75,6 @@ I pair that with daily DSA practice (a 190-problem roadmap across 12 topics, in 
 
 ---
 
-### Featured Projects
-
-<details>
-<summary><b>🔹 Customer Churn Prediction</b></summary>
-<br/>
-
-Telco churn classifier built with a strong focus on doing evaluation correctly — replaced SMOTE with native class weighting, tuned via Optuna against F1 instead of ROC-AUC alone, and fixed a data leakage bug that was silently inflating threshold-tuning results.
-
-| Aspect | Details |
-|---|---|
-| Stack | Python, scikit-learn, Pandas, Optuna |
-| Techniques | Class weighting, engineered features, leak-free threshold tuning |
-| Focus | Correct evaluation methodology over inflated metrics |
-| Repository | [Customer-Churn-Prediction](https://github.com/Yuvaraj-Dey-2006/Customer-Churn-Prediction) |
-
-</details>
-
-<details>
-<summary><b>🔹 USA Housing Price Regression</b></summary>
-<br/>
-
-End-to-end regression pipeline for housing price prediction, documented with a clean, recruiter-friendly results writeup.
-
-| Aspect | Details |
-|---|---|
-| Stack | Python, scikit-learn, Pandas |
-| Techniques | Regression modeling, feature analysis |
-| Focus | Clean documentation and reproducible results |
-| Repository | [USA-Housing-Prediction](https://github.com/Yuvaraj-Dey-2006/USA-Housing-Prediction) |
-
-</details>
-
----
-
 ### Coding Profiles
 
 <div align="center">
@@ -157,7 +123,7 @@ End-to-end regression pipeline for housing price prediction, documented with a c
 ```yaml
 Currently:
   Learning: [SQL & DBMS, PostgreSQL, Deep Learning foundations]
-  Building: [Loan Default Prediction model, ML project portfolio]
+  Building: Production Level ML project portfolio]
   Exploring: [MLOps, Agentic AI workflows]
   OpenTo: [ML Engineer Internships, Software Engineering Internships]
 ```
