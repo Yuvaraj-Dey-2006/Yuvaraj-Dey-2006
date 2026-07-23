@@ -59,22 +59,6 @@ I pair that with daily DSA practice (a 190-problem roadmap across 12 topics, in 
 
 ---
 
-### AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Classical ML | 🟣 Proficient | scikit-learn pipelines, Optuna hyperparameter tuning, feature engineering, class-imbalance handling |
-| Data Analysis | 🟣 Proficient | Pandas, NumPy, EDA, leak-free preprocessing |
-| SQL & Databases | 🟪 Learning | PostgreSQL, query fundamentals, schema design |
-| Deep Learning | 🟪 Learning | Building foundations as part of active roadmap |
-| MLOps | ⬜ Planned | Upcoming phase in engineering roadmap |
-
-</div>
-
----
-
 ### Coding Profiles
 
 <div align="center">
