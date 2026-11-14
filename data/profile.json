@@ -1,0 +1,17 @@
+{
+  "username": "Yuvaraj-Dey-2006",
+  "name": "Yuvaraj Dey",
+  "headline": "AI & Machine Learning | Computer Science Undergraduate",
+  "location": "Howrah, India",
+  "university": "JIS University",
+  "graduation": "2028",
+  "bio": "Building practical machine learning projects and learning how to make models reliable beyond the notebook.",
+  "focus": ["Machine Learning", "Natural Language Processing", "Data Science", "Python"],
+  "skills": ["Python", "NumPy", "Pandas", "Scikit-learn", "Matplotlib", "Jupyter", "Git", "GitHub"],
+  "projects": [
+    {"name": "USA Housing Prediction", "description": "Regression project for predicting housing prices.", "url": "https://github.com/Yuvaraj-Dey-2006/USA-Housing-Prediction"},
+    {"name": "House Credit — Processed Dataset", "description": "Data preparation work for a credit-risk dataset.", "url": "https://huggingface.co/datasets/Yuvaraj-Dey-2006/house-credit-processed"}
+  ],
+  "linkedin": "https://www.linkedin.com/in/yuvaraj-dey-851044330/",
+  "email": "yuvarajdey1234@gmail.com"
+}
