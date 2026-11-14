@@ -24,9 +24,7 @@
 
 Aspiring ML/AI Engineer currently pursuing a BTech in Computer Science, specializing in AI & Machine Learning. My work covers the full ML lifecycle — exploratory analysis, feature engineering, model tuning with Optuna, and building pipelines that hold up under scrutiny rather than just looking good on a metrics screenshot. I've hunted down and fixed real issues in my own projects: data leakage in threshold tuning, bias introduced by naive resampling, and evaluation setups that quietly inflate scores.
 
-I pair that with daily DSA practice (a 190-problem roadmap across 12 topics, in Python) and a growing foundation in SQL/DBMS via PostgreSQL, alongside classical ML and deep learning fundamentals.
-
-**Open to:** ML/AI Engineer Internships · Software Engineering Internships
+**Open to:** ML/AI Engineer Internships
 
 ---
 
