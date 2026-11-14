@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:8B5CF6&height=200&section=header&text=Yuvaraj%20Dey&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20ML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=BTech+CSE+(AI+%26+ML)+%7C+Class+of+2028+%7C+JIS+University;Building+leak-free%2C+production-style+ML+pipelines;Howrah%2C+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=BTech+CSE+(AI+%26+ML)+%7C+Class+of+2028+%7C+JIS+University;Building+leak-free%2C+production-style+ML+pipelines;Howrah%2C+India" alt="Typing SVG" />
 
 <br/>
 
